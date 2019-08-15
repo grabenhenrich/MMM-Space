@@ -6,7 +6,7 @@
 Module.register("MMM-Space",{
 	defaults: {
 		verticalSpace: "40px",
-		backgroundColor: "#000000"
+		backgroundColor: "transparent"
 	},
 
 	getDom: function() {

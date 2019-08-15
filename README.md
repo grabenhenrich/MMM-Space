@@ -28,7 +28,7 @@ The following properties can be configured:
 | Option            | Description
 | ----------------- | -----------
 | `verticalSpace`   | Definition of the height of the static space, e.g. as pixels. <br><br> **Possible values:** `40px`, `100px`, ... <br> **Default value:** `40px`
-| `backgroundColor` | Definition of the background color, usually left blank. <br><br> **Possible values:** HEX-coded RGB values <br> **Default value:** `"#000000"`
+| `backgroundColor` | Definition of the background color, usually left blank. <br><br> **Possible values:** HEX-coded RGB values, `"#FF0000"` <br> **Default value:** `"transparent"`
 
 ## Notifications
 Doesn't make sense to exchange any information with the MagicMirror system, as this is a purely static HTML element.
